@@ -110,6 +110,17 @@
     </item>
     
     <item>
+      <title>Microbenchmarking GPUs</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>&lt;p&gt;As part of the MIT CSAIL Database Group. Microbenchmarking newer generations of NVIDIA GPUs, including GeForce GTX Titan X.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Go Interpreter and Compiler</title>
       <link>/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
