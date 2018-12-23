@@ -136,8 +136,8 @@ Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers r
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>/projects/</guid>
-      <description>Go Interpreter and Compiler Tools/Languages: Go Simple interpreter and compiler written in Go for a toy language. Supports data structures like integers, booleans, strings, arrays, and hashmaps; prefix, infix operators; index operators; conditions; global and local bindings; first class functions; return statements; and closures. Code based on this book.
- Code Blog post on compiler Blog post on interpreter  N Chainz: Decentralized Cryptocurrency Exchange Tools/Languages: Go A high performance, decentralized cryptocurrency exchange written in Go.</description>
+      <description>GENIE: GENe IndExer Tools/Languages: C, C++, Python (scikit-learn) Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.
+ Paper Poster Code  Analyzing Loss Functions for End-to-End Automatic Image Colorization Tools/Languages: Pytorch Investigated the effects of loss functions on automatic image colorization using CNNs.</description>
     </item>
     
     <item>
