@@ -136,8 +136,8 @@ Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers r
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>/projects/</guid>
-      <description>GENIE: GENe IndExer Tools/Languages: C, C++, Python (scikit-learn) Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.
- Paper Poster Code  Analyzing Loss Functions for End-to-End Automatic Image Colorization Tools/Languages: Pytorch Investigated the effects of loss functions on automatic image colorization using CNNs.</description>
+      <description>board2board Tools/Languages: React.js, Node.js, Express, Socket.IO, OpenCV.js Built a collaborative drawing web app that uses a computer&amp;rsquo;s webcam for object detection. Worked with Andrew Wei.
+ Blog post  GENIE: GENe IndExer Tools/Languages: C, C++, Python (scikit-learn) Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.</description>
     </item>
     
     <item>
