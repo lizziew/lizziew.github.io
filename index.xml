@@ -131,13 +131,13 @@ Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers r
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Projects and Papers</title>
       <link>/projects/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>/projects/</guid>
-      <description>board2board Tools/Languages: React.js, Node.js, Express, Socket.IO, OpenCV.js Built a collaborative drawing web app that uses a computer&amp;rsquo;s webcam for object detection. Worked with Andrew Wei.
- Blog post  GENIE: GENe IndExer Tools/Languages: C, C++, Python (scikit-learn) Built a tool to improve exact search for DNA sequencing analysis using learned indexes - specifically, RMIs (recursive model indexes). Worked with Tony Peng and Ashwath Thirumalai. Advised by Sanchit Misra and Professor Tim Kraska.</description>
+      <description>Delta Binary Packed Decompression on GPUs Tools/Languages: CUDA, C, C++, Python Researched and implemented delta binary packing decompression on GPUs. Advised by Anil Shanbhag and Professor Sam Madden as part of the SuperUROP program and MIT Database Group. Funded by Lincoln Laboratory.
+ Paper  Approximately Counting Subgraphs in Sublinear Time Investigated recent research on sublinear algorithms for approximately counting subgraphs. Worked with Luis Xavier Ramos Tormo and Justin Restivo.</description>
     </item>
     
     <item>
