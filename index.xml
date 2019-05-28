@@ -121,17 +121,27 @@
     </item>
     
     <item>
-      <title>Classes</title>
+      <title>Blog posts</title>
+      <link>/blog/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>/blog/</guid>
+      <description>Check out my blog at Blog
+Recent posts:
+Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers read  Performance Engineering (6.172)  Blog Post Quiz 2  Distributed Systems Engineering (6.824)  Quiz 1 Quiz 2 Blog posts on papers read  OS Engineering (6.828)  Quiz 1  Software Construction (6.031):  Quiz 1 Quiz 2  Computer Systems Engineering (6.033):  Quiz 1 Quiz 2   Math  Theoretical CS Seminar - Spectral Theory (18.</description>
+    </item>
+    
+    <item>
+      <title>Blog posts</title>
       <link>/classes/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>/classes/</guid>
-      <description>Here are some study sheets I&amp;rsquo;ve written from classes I&amp;rsquo;ve taken at MIT:
-Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers read  Performance Engineering (6.172)  Blog Post Quiz 2  Distributed Systems Engineering (6.824)  Quiz 1 Quiz 2 Blog posts on papers read  OS Engineering (6.828)  Quiz 1  Software Construction (6.031):  Quiz 1 Quiz 2  Computer Systems Engineering (6.</description>
+      <description>Blog Recently blogged:  Computer Science  Database Systems (6.830)  Quiz 1 Quiz 2 Blog posts on papers read  Performance Engineering (6.172)  Blog Post Quiz 2  Distributed Systems Engineering (6.824)  Quiz 1 Quiz 2 Blog posts on papers read  OS Engineering (6.828)  Quiz 1  Software Construction (6.031):  Quiz 1 Quiz 2  Computer Systems Engineering (6.033):  Quiz 1 Quiz 2   Math  Theoretical CS Seminar - Spectral Theory (18.</description>
     </item>
     
     <item>
-      <title>Projects and Papers</title>
+      <title>Projects &amp; papers</title>
       <link>/projects/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
