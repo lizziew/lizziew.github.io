@@ -1,3 +1,7 @@
 name = "Portfolio"
 license = "MIT"
 description = "Personal portfolio website"
+min_version = "0.92.2"
+
+[author]
+    name = "Lizzie Wang"
