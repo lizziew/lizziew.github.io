@@ -11,3 +11,8 @@ theme = "portfolio"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
