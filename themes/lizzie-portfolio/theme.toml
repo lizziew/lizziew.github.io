@@ -1,0 +1,8 @@
+name = "Lizzie Portfolio"
+license = "MIT"
+description = "Custom portfolio theme for Elizabeth Wei's website"
+min_version = "0.92.2"
+
+[author]
+  name = "Elizabeth Wei"
+  homepage = "https://lizziew.github.io"
