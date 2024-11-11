@@ -7,13 +7,30 @@ theme = "hugo-creative-portfolio-theme"
   style = "default"
   description = "Elizabeth Wei's Portfolio"
   copyright = "&copy;2024 Elizabeth Wei"
-  sidebarAbout = []
+  sidebarAbout = ["I'm a software engineer based in San Francisco."]
   email = ""
 
 [params.social]
   github = "https://github.com/lizziew"
   linkedin = "https://www.linkedin.com/in/elizabeth-wei/"
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+[[params.navlinks]]
+  name = "About"
+  url = "about/"
+  home = true
+
+[[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+
+[[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
+
+[[params.navlinks]]
+  name = "Classes"
+  url = "classes/"
+
+[[params.navlinks]]
+  name = "Contact"
+  url = "contact/"
