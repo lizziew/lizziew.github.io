@@ -22,11 +22,11 @@ languageCode = "en-us"
   url = "portfolio/"
   home = false
 
-  # Social buttons in the sidebar
+  # Social buttons in the sidebar using theme's original buttons
   [params.social]
   linkedin      = "https://www.linkedin.com/in/elizabeth-wei/"
   github        = "https://github.com/lizziew"
-  whatsapp      = "http://datasieve.blogspot.com/"  # Using WhatsApp button for blog link as requested
+  whatsapp      = "http://datasieve.blogspot.com/"
 
 [security]
   enableInlineShortcodes = false
