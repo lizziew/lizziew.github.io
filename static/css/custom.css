@@ -1,1 +1,30 @@
-/* your styles go here */
+.project-entry {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #eee;
+}
+
+.project-entry h4 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    color: #000;
+}
+
+.project-entry h5 {
+    color: #666;
+    margin-bottom: 1em;
+}
+
+.project-entry ul {
+    margin-top: 0.5em;
+    padding-left: 20px;
+}
+
+.project-entry ul li {
+    margin-bottom: 0.25em;
+}
+
+.content-column-content {
+    padding: 20px;
+    max-width: 900px;
+}

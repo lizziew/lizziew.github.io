@@ -38,3 +38,6 @@ languageCode = "en-us"
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+[params]
+  custom_css = ["css/custom.css"]
