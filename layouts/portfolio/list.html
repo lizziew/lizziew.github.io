@@ -7,16 +7,7 @@
     <div class="row">
         <div class="col-lg-8">
             <div class="content-column-content">
-                <h1>Projects & papers</h1>
-                {{ range .Pages.ByTitle }}
-                <div class="project-entry">
-                    <h4>{{ .Title }}</h4>
-                    {{ with .Params.tools }}
-                    <h5>Tools/Languages: {{ . }}</h5>
-                    {{ end }}
-                    {{ .Content }}
-                </div>
-                {{ end }}
+                {{ .Content }}
             </div>
         </div>
     </div>
