@@ -1,30 +1,66 @@
-.project-entry {
-    margin-bottom: 2em;
-    padding-bottom: 1em;
-    border-bottom: 1px solid #eee;
+/* Override portfolio grid layout */
+.masonry-wrapper {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-.project-entry h4 {
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    color: #000;
+.grid-sizer, .masonry-item {
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    position: static !important;
+    transform: none !important;
 }
 
-.project-entry h5 {
-    color: #666;
-    margin-bottom: 1em;
+.box-masonry {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-.project-entry ul {
-    margin-top: 0.5em;
-    padding-left: 20px;
+.box-masonry .box-masonry-text {
+    padding: 0 !important;
+    background: transparent !important;
 }
 
-.project-entry ul li {
-    margin-bottom: 0.25em;
+/* Match original typography and spacing */
+h4 {
+    margin-top: 2em !important;
+    margin-bottom: 0.5em !important;
+    font-weight: bold !important;
+    font-size: 1.2em !important;
+}
+
+h5 {
+    color: #666 !important;
+    margin-bottom: 1em !important;
+    font-size: 1em !important;
+    font-weight: normal !important;
+}
+
+ul {
+    margin-bottom: 2em !important;
+    padding-left: 20px !important;
 }
 
 .content-column-content {
-    padding: 20px;
-    max-width: 900px;
+    padding: 20px !important;
+    max-width: 900px !important;
+}
+
+/* Remove any remaining portfolio decorations */
+.box-masonry:hover .box-masonry-text {
+    padding-bottom: 0 !important;
+}
+
+.box-masonry .box-masonry-image {
+    display: none !important;
+}
+
+.portfolio-content {
+    padding: 0 !important;
+    margin: 0 !important;
 }

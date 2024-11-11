@@ -3,7 +3,6 @@ title = "Elizabeth Wei"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 
-[params]
   style = "default"
   description = "Elizabeth Wei's Portfolio"
   copyright = "&copy;2024 Elizabeth Wei"
@@ -39,5 +38,4 @@ languageCode = "en-us"
     methods = ['(?i)GET|POST']
     urls = ['.*']
 
-[params]
   custom_css = ["css/custom.css"]
