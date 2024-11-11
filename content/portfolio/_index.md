@@ -73,7 +73,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work2/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/2.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/2.png" alt="" class="img-responsive">
 </a>
 
 
@@ -97,7 +97,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work3/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/3.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/3.png" alt="" class="img-responsive">
 </a>
 
 
@@ -143,7 +143,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work5/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/5.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/5.png" alt="" class="img-responsive">
 </a>
 
 
@@ -231,7 +231,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work7/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/7.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/7.png" alt="" class="img-responsive">
 </a>
 
 
@@ -256,7 +256,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work8/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/8.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/8.png" alt="" class="img-responsive">
 </a>
 
 
@@ -282,7 +282,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work11/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/11.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/11.png" alt="" class="img-responsive">
 </a>
 
 
@@ -308,7 +308,7 @@ ported by <a href="https://github.com/kishaningithub">Kishan</a>
 
 <a href="/portfolio/work1/" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
 
-<img src="/img/portfolio/1.png" alt="" class="img-responsive">
+<img src="/static/img/portfolio/1.png" alt="" class="img-responsive">
 </a>
 
 
