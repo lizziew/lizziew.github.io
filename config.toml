@@ -12,7 +12,6 @@ languageCode = "en-us"
   ]
   email = ""
 
-  # Nav links in the side bar - keeping only About and Projects
   [[params.navlinks]]
   name = "About"
   url = "about/"
@@ -27,3 +26,14 @@ languageCode = "en-us"
   linkedin = "https://www.linkedin.com/in/elizabeth-wei/"
   github = "https://github.com/lizziew"
   blog = "http://datasieve.blogspot.com/"
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^hugo$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
