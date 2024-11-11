@@ -4,21 +4,21 @@ draft: false
 ---
 
 # Blog posts
-Check out my blog at [Blog](datasieve.blogspot.com)
+Check out my blog at [Blog](http://www.datasieve.blogspot.com)
 Recent posts:
 -----
 #### Computer Science
   - Database Systems (6.830)
       - [Quiz 1](https://www.dropbox.com/s/jz2h3ca1hmj8l7z/6.830%20Quiz%201%20Notes.pdf?dl=0)
       - [Quiz 2](https://www.dropbox.com/s/hsg51c179635y4h/6.830%20Quiz%202%20Notes.pdf?dl=0)
-      - [Blog posts on papers read](http://datasieve.blogspot.com/search/label/tldr)
+      - [Blog posts on papers read](http://www.datasieve.blogspot.com/search/label/tldr)
   - Performance Engineering (6.172)
-      - [Blog Post](http://datasieve.blogspot.com/2017/11/performance-engineering.html)
+      - [Blog Post](http://www.datasieve.blogspot.com/2017/11/performance-engineering.html)
       - [Quiz 2](https://www.dropbox.com/s/byfzi8ev9u49mo2/6_172_Quiz_2.pdf?dl=0)
   - Distributed Systems Engineering (6.824)
       - [Quiz 1](https://www.dropbox.com/s/d3ey84yf8tei6q2/6_824_Exam_1.pdf?dl=0)
       - [Quiz 2](https://www.dropbox.com/s/v93rj6oveluz53k/Exam2.pdf?dl=0)
-      - [Blog posts on papers read](http://datasieve.blogspot.com/search/label/tldr)
+      - [Blog posts on papers read](http://www.datasieve.blogspot.com/search/label/tldr)
   - OS Engineering (6.828)
       - [Quiz 1](https://www.dropbox.com/s/a3dvf548opylogj/6_828_Exam_1.pdf?dl=0)
   - Software Construction (6.031):
