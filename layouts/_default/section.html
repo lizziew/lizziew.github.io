@@ -1,14 +1,19 @@
+html
 {{ define "main" }}
-<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
     {{ partial "mobile_nav_toggle.html" . }}
-    <div class="grid">
-        {{ .Content }}
-        {{ range .Pages }}
+    <div class="row">
+        <div class="col-lg-8">
             <div class="content-column-content">
-                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                {{ .Summary }}
+                {{ .Content }}
+                {{ range .Pages }}
+                    <div class="box-masonry">
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        {{ .Summary }}
+                    </div>
+                {{ end }}
             </div>
-        {{ end }}
+        </div>
     </div>
 </div>
 {{ end }}
