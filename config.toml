@@ -5,12 +5,15 @@ theme = "hugo-creative-portfolio-theme"
 
 [params]
   style = "default"
+  description = "Elizabeth Wei's Portfolio"
+  copyright = "&copy;2024 Elizabeth Wei"
+  sidebarAbout = []
+  email = ""
 
-[params.portfolio]
-  title = "Portfolio"
+[params.social]
+  github = "https://github.com/lizziew"
+  linkedin = "https://www.linkedin.com/in/elizabeth-wei/"
 
-[params.about]
-  title = "About"
-
-[params.contact]
-  title = "Contact"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
