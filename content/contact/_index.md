@@ -1,42 +1,38 @@
 ---
-title: ""
+title: "Get in touch"
 draft: false
 ---
+
 ::: {#all}
-::: {.container-fluid}
-::: {.row .row-offcanvas .row-offcanvas-left}
+::: 
+::: 
 ::: {#sidebar .col-xs-6 .col-sm-4 .col-md-3 .sidebar-offcanvas}
-::: {.sidebar-content}
+::: 
 [Elizabeth Wei](/) {#elizabeth-wei .sidebar-heading}
 ==================
 
 -   [About](/about/)
 -   [Projects](/projects/)
 
-[](http://www.datasieve.blogspot.com){.external} [](http://www.linkedin.com/in/elizabethmwei){.external} [](http://www.github.com/lizziew){.external}
+[](http://www.datasieve.blogspot.com)
 
-::: {.copyright}
-©2018 \| [Template](https://bootstrapious.com/free-templates){.external} ported by [Kishan](https://github.com/kishaningithub)
+::: 
+©2018 \| [Template](https://bootstrapious.com/free-templates) ported by [Kishan](https://github.com/kishaningithub)
 :::
 :::
 :::
 
-::: {.col-xs-12 .col-sm-8 .col-md-9 .content-column .white-background}
-::: {.small-navbar .visible-xs}
-```{=html}
-<button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left">
-```
+::: 
+::: 
 Menu
-```{=html}
-</button>
-```
+
 [Elizabeth Wei](/) {#elizabeth-wei-1 .small-navbar-heading}
 ==================
 :::
 
-::: {.row}
-::: {.col-lg-8}
-::: {.content-column-content}
+::: 
+::: 
+::: 
 Get in touch
 ============
 
@@ -52,35 +48,23 @@ Able an hope of body. Any nay shyness article matters own removal nothing his fo
 
 #### Drop me a line, maybe?
 
-```{=html}
-<form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/you@yoursite.com">
-```
-::: {.controls}
-::: {.form-group}
-`<label for="name">`{=html}Your name \*`</label>`{=html} `<input type="text" name="name" id="name" required="required" class="form-control">`{=html}
+::: 
+::: 
+Your name \*
 :::
 
-::: {.form-group}
-`<label for="email">`{=html}Your email \*`</label>`{=html} `<input type="email" name="email" id="email" required="required" class="form-control">`{=html}
+::: 
+Your email \*
 :::
 
-::: {.form-group}
-`<label for="message">`{=html}Your message for me \*`</label>`{=html}
-```{=html}
-<textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
-```
+::: 
+Your message for me \*
 :::
 
 <div>
 
-`<input type="submit" value="Send" class="btn btn-ghost">`{=html}
-
 </div>
 :::
-
-```{=html}
-</form>
-```
 :::
 :::
 :::
@@ -88,31 +72,3 @@ Able an hope of body. Any nay shyness article matters own removal nothing his fo
 :::
 :::
 :::
-
-```{=html}
-<script src="/js/jquery.min.js"></script>
-```
-```{=html}
-<script src="/js/bootstrap.min.js"></script>
-```
-```{=html}
-<script src="/js/jquery.cookie.js"> </script>
-```
-```{=html}
-<script src="/js/ekko-lightbox.js"></script>
-```
-```{=html}
-<script src="/js/jquery.scrollTo.min.js"></script>
-```
-```{=html}
-<script src="/js/masonry.pkgd.min.js"></script>
-```
-```{=html}
-<script src="/js/imagesloaded.pkgd.min.js"></script>
-```
-```{=html}
-<script src="/js/owl.carousel.min.js"></script>
-```
-```{=html}
-<script src="/js/front.js"></script>
-```
